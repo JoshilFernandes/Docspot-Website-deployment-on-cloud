@@ -1,0 +1,8 @@
+[Fri Jul 07 00:24:17.105971 2023] [ssl:warn] [pid 17095] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jul 07 00:24:17.106033 2023] [ssl:warn] [pid 17095] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jul 07 00:24:17.152500 2023] [ssl:warn] [pid 17096] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jul 07 00:24:17.152528 2023] [ssl:warn] [pid 17096] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jul 07 00:24:17.152629 2023] [lbmethod_heartbeat:notice] [pid 17096] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 07 00:24:17.219780 2023] [mpm_prefork:notice] [pid 17096] AH00163: Apache/2.4.56 (Unix) OpenSSL/1.1.1t PHP/8.2.4 mod_perl/2.0.12 Perl/v5.34.1 configured -- resuming normal operations
+[Fri Jul 07 00:24:17.219822 2023] [core:notice] [pid 17096] AH00094: Command line: '/opt/lampp/bin/httpd -E /opt/lampp/logs/error_log -D SSL -D PHP'
+[Fri Jul 07 00:30:46.855585 2023] [php:error] [pid 17103] [client 174.138.0.63:56688] script '/opt/lampp/htdocs/1.php' not found or unable to stat
