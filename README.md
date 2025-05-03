@@ -137,6 +137,13 @@ There are several potential future enhancements for DocSpot:
 - **Telemedicine support:** Integrating telemedicine capabilities into DocSpot would allow patients to schedule virtual appointments and consult with doctors remotely, providing convenience and accessibility.
 - **Multilingual support:** Adding multilingual support to the website would cater to a broader patient base, accommodating users who are not fluent in the local language.
 - **Automated appointment reminders:** Implementing automated appointment reminders through SMS or email notifications can reduce no-show rates and improve overall appointment management.
+### Webpage Screenshots
+![image](https://github.com/user-attachments/assets/5977abf3-21a9-4364-aaec-93d8b2c863d8)
+![image](https://github.com/user-attachments/assets/10494a9f-50ec-409a-99b2-ce78354972ca)
+![image](https://github.com/user-attachments/assets/e22c9942-6e5a-49c7-ba29-b15fbf649596)
+![image](https://github.com/user-attachments/assets/c88786d8-76d8-46ee-9f59-e79347f81272)
+![image](https://github.com/user-attachments/assets/b01d1d1e-63df-4f07-9ddf-5995bbbe82d6)
 
-## References
-Comprehensive list of all resources, publications, and articles referenced in this report.
+
+
+
